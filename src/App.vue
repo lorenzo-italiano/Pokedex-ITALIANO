@@ -223,6 +223,13 @@ section > form > input{
     #pokemonListul{
         grid-template-columns: 1fr;
     }
+    #pokemonListul > li > img{
+        width:30%;
+        height:auto;
+    }
+    body{
+        overflow-x:hidden;
+    }
 }
 /* Small devices (landscape phones, 576px and up)*/
 @media (min-width: 567px) {
@@ -237,6 +244,10 @@ section > form > input{
     }
     #pokemonListul{
         grid-template-columns: 1fr 1fr;
+    }
+    #pokemonListul > li > img{
+        width:50%;
+        height:auto;
     }
  }
 
@@ -254,6 +265,10 @@ section > form > input{
     #pokemonListul{
         grid-template-columns: 1fr 1fr 1fr;
     }
+    #pokemonListul > li > img{
+        width:50%;
+        height:auto;
+    }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -270,7 +285,10 @@ section > form > input{
     #pokemonListul{
         grid-template-columns: 1fr 1fr 1fr 1fr;
     }
-    
+    #pokemonListul > li > img{
+        width:50%;
+        height:auto;
+    }
  }
  
  
