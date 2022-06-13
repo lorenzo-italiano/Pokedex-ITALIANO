@@ -1,11 +1,11 @@
-Responsive : buttons, vignettes
-Faire en composants avec émit et l'istener 
+- [] Responsive : buttons, vignettes
+- [] Faire en composants avec émit et l'istener 
 
-Barre pour les stats
-Force faiblesse
-Autocompletion 
+- [] Barre pour les stats
+- [] Force faiblesse
+- [] Autocompletion 
 
-Vignettes 
+- [] Vignettes 
 
 Général :
 Id
@@ -27,29 +27,22 @@ Stats
 
 ## Retour d'Etienne :
 
-select sur le logo
+- [] select sur le logo
 
-très beau design
+- [] pas de retour menu
 
-pas de retour menu
+- [] dommage qu'il faut taper le nom exact pour la recherche
 
-dommage qu'il faut taper le nom exact pour la recherche
+- [] stylé l'animation mais afficher un message d'erreur quand la recherche n'aboutie pas
 
-bonne recherche sinon
+- [] systeme de page faut revenir en bas pour revenir en arrière et chargement un poil long
 
-stylé l'animation mais afficher un message d'erreur quand la recherche n'aboutie pas
+- [] HelloWorld ?
 
-systeme de page faut revenir en bas pour revenir en arrière
-et chargement un poil long
+- [] Un seul composant -> footer + header en composant + item pokemon
 
-css -> all good
+- [] refetch sur les anciens pokemons deja chargé
 
-HelloWorld ?
+- [] les deux func peuvent être la même avec args
 
-Un seul composant -> footer + header en composant + item pokemon
-
-refetch sur les anciens pokemons deja chargé
-
-les deux func peuvent être la même avec args
-
-pas assez de commentaires
+- [] pas assez de commentaires
